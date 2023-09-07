@@ -1,4 +1,5 @@
-public static WRI {
+import java.util.Scanner;;
+public class wriLogin {
     public static void main(String[] args) {
         Scanner input = new Scanner (System.in);
         String pass = "apa_coba";
